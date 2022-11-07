@@ -1,0 +1,12 @@
+body {
+    background-image: url("farquaad.gif");
+    background-repeat: repeat;
+    background-color: greenyellow;
+    color: orangered;
+}
+
+a {
+    padding-left: 200px;
+    font-size: x-large;
+    color: orange;
+}

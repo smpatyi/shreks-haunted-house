@@ -1,0 +1,14 @@
+body {
+    background-image: url("swamp.gif");
+    background-repeat: repeat;
+}
+
+h1 {
+    color: white;
+}
+
+a {
+    padding-left: 200px;
+    font-size: x-large;
+    color: white;
+}
