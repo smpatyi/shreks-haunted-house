@@ -3,10 +3,11 @@ body {
     background-repeat: repeat;
     background-color: greenyellow;
     color: orangered;
+    text-align: center;
 }
 
 a {
-    padding-left: 200px;
+    /* padding-left: 200px; */
     font-size: x-large;
     color: orange;
 }

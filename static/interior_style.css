@@ -1,0 +1,26 @@
+body {
+    background-color: greenyellow;
+    color: orangered;
+    text-align: center;
+}
+
+a {
+    /* padding-left: auto;
+    padding-right: auto; */
+    
+    font-size: x-large;
+    color: orange;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.donkey {
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
